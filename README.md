@@ -3,7 +3,7 @@
 
 <p align="center">
  
-   <a href="https://www.linkedin.com/inhttps://www.linkedin.com/in/shanu-kumrawat-700941132/" target="_blank">
+   <a href="https://www.linkedin.com/in/shanu-kumrawat-700941132/" target="_blank">
      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
       </a><span>&nbsp;</span>
   
