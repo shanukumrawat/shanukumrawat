@@ -20,7 +20,7 @@
   Hi, I'm [Shanu](https://github.com/shanukumrawat), An aspiring Java Backend Developer with a specialization in SpringBoot Hibernate with a passion for learning with an endless supply of optimism and curiosity.
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" />
 
 <br>
 👨‍💻 Dedicated engineering graduate determined to work with an organization, to fully utilize my experience, technical and interpersonal skills for the overall growth of the organization and project team for the
@@ -61,5 +61,5 @@ benefit of company.
    </br>
    <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanukumrawat&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
-    <img align="right" src="https://activity-graph.herokuapp.com/graph?username=shanukumrawat&theme=xcode" height="255px" width="70%"/>
+    <img align="right" src="https://activity-graph.herokuapp.com/graph?username=shanukumrawat&theme=xcode" height="255px" width="60%"/>
   <div>
