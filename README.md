@@ -28,7 +28,8 @@ benefit of company.
 
 - 🌱 I’m currently learning **Java Backend **
 
-- 👨‍💻 All of my projects are available at **https://shanukumrawat-portfolio.netlify.app/#portfolio**
+- 👨‍💻 All of my projects are available at  1) **https://wonderful-cuchufli-3430af.netlify.app/**
+                                            2) **https://candid-starship-25c3ab.netlify.app/**
 
 - 💬 Ask me about **Java, Javascript, HTML, CSS**
 
