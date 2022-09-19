@@ -35,7 +35,7 @@ benefit of company.
 
 - 📫 Reach me at **kumrawat.shanu@gmail.com**
 
-- 👨‍💻 Checkout my Portfolio [Portfolio](https://shanukumrawat-portfolio.netlify.app/)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://shanu-portfolio.netlify.app/)
 
 - 💬 ask me about anything, I would love to help ;)
 
