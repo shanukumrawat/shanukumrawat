@@ -28,8 +28,8 @@ benefit of company.
 
 - 🌱 I’m currently learning **Java Backend **
 
-- 👨‍💻 All of my projects are available at  1) **https://wonderful-cuchufli-3430af.netlify.app/**
-                                            2) **https://candid-starship-25c3ab.netlify.app/**
+- 👨‍💻 All of my projects are available at  1) [Expedia Website Clone](https://wonderful-cuchufli-3430af.netlify.app/)
+                                            2) [YOOX Website Clone](https://candid-starship-25c3ab.netlify.app/)
 
 - 💬 Ask me about **Java, Javascript, HTML, CSS**
 
