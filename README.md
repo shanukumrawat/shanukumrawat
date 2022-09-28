@@ -61,6 +61,6 @@ benefit of company.
   <div>
    </br>
    <div>
-    <img src="https://camo.githubusercontent.com/13ca305423b1614928118c2606c28b4220dd858d3748c851f091828a2ace317e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6f6869746269726c613230267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanukumrawat;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/13ca305423b1614928118c2606c28b4220dd858d3748c851f091828a2ace317e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6f6869746269726c613230267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanukumrawat;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" style="max-width: 25%;">
     <img align="right" src="https://activity-graph.herokuapp.com/graph?username=shanukumrawat&theme=xcode" height="255px" width="64%"/>
   <div>
