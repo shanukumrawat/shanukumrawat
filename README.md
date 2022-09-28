@@ -11,7 +11,7 @@
      <img src="https://img.icons8.com/color/48/000000/resume.png" width="3.5%"/>
       </a><span>&nbsp;</span>
   
-  <a href="https://shanukumrawat-portfolio.netlify.app/" target="_blank">
+  <a href="https://shanukumrawat.github.io/" target="_blank">
      <img src="https://img.icons8.com/color/48/000000/bag.png" width="3.5%"/>
       </a><span>&nbsp;</span>
      
@@ -35,7 +35,7 @@ benefit of company.
 
 - 📫 Reach me at **kumrawat.shanu@gmail.com**
 
-- 👨‍💻 Checkout my Portfolio [Portfolio](https://shanu-portfolio.netlify.app/)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://shanukumrawat.github.io/)
 
 - 💬 ask me about anything, I would love to help ;)
 
