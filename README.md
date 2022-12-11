@@ -65,6 +65,6 @@ benefit of company.
    
   <div>
    </br>
-    <div>
+<!--     <div>
       <img align="right" src="https://activity-graph.herokuapp.com/graph?username=shanukumrawat&theme=xcode" height="255px" width="90%" align-item= "center"/>
-    </div>
+    </div> -->
