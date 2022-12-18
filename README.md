@@ -7,7 +7,7 @@
      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
       </a><span>&nbsp;</span>
   
-   <a href="https://drive.google.com/file/d/1txC_oYz5aE4RSCnsEumLh84Pe2CrV_sy/view?usp=sharing" target="_blank">
+   <a href="https://drive.google.com/file/d/1DrLEYStJ8JgUZhin6v2Xpszs3Sw3lhs1/view?usp=share_link" target="_blank">
      <img src="https://img.icons8.com/color/48/000000/resume.png" width="3.5%"/>
       </a><span>&nbsp;</span>
   
